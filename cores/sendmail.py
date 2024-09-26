@@ -33,10 +33,10 @@ def send_email(subject, body, to_emails):
     finally:
         server.quit()
 
-# # Thông tin email và máy chủ SMTP
+# Thông tin email và máy chủ SMTP
 # subject = "Test Email"  # Tiêu đề
 # body = "This is a test email sent from Python."  # Nội dung gửi
-# to_emails = ["vantuyenk38@gmail.com"]  # Danh sách email cần gửi
+# to_emails = ["tranglucdinhkieu@gmail.com"]  # Danh sách email cần gửi
 
 
 # # Gửi email

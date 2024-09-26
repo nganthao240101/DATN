@@ -25,16 +25,18 @@ def index(request):
     return render(request, 'detect/test.html', {'data_list': data_list})
 
 def detect_core():
-    # Lấy tất cả các đối tượng từ mô hình Prediction
-    data_list = Prediction.objects.all().values()  # Sử dụng .values() để lấy dữ liệu dưới dạng danh sách các từ điển
+    # Lấy tất cả các đối tượng từ mô hình Prediction dưới dạng từ điển
+    data_list = list(Prediction.objects.all().values())
+    # print(data_list)
 
-    #Xử lý dữ liệu
+    # Xử lý dữ liệu
     for item in data_list:
         for key, value in item.items():
-            if isinstance(value, float) and (math.isinf(value) or math.isnan(value)):
-                item[key] = None
-            elif isinstance(value, int) and (value < 0):
-                item[key] = 0
+            if isinstance(value, (float, int)):  # Chỉ kiểm tra số
+                if isinstance(value, float) and (math.isinf(value) or math.isnan(value)):
+                    item[key] = None
+                elif isinstance(value, int) and value < 0:
+                    item[key] = 0
     return data_list
 
 @csrf_exempt
@@ -65,15 +67,27 @@ def detect_filter(request):
         
         # Tính số lượng địa chỉ IP nguồn duy nhất có nhãn '1.0'
         unique_src_ips = []
+        unique_dst_ips = []
         
         for item in data:
-            if item.get("label") == '1.0':  # Sử dụng .get() để lấy giá trị
-                src_ip = item.get('source_ip')  # Sử dụng .get() để tránh lỗi KeyError
+            if item.get("label") == '0.0':  # Sử dụng .get() để lấy giá trị
+                src_ip = item.get('source_ip')
+                dst_ip=item.get("destination_ip")
+                  # Sử dụng .get() để tránh lỗi KeyError
                 if src_ip and src_ip not in unique_src_ips:
                     unique_src_ips.append(src_ip)
                     count += 1
 
-    return JsonResponse({'count': count, 'data': list(data)}, safe=False)
+            # Kiểm tra và thêm IP đích vào danh sách nếu chưa tồn tại
+                if dst_ip and dst_ip not in unique_dst_ips:
+                    unique_dst_ips.append(dst_ip)
+                body_content =f"Canh bao bat thuong tu dia chi {src_ip} den {dst_ip}\n"  # Thêm địa chỉ IP đích vào nội dung email
+                subject = "Detected IP Addresses"
+                to_emails = ["tranglucdinhkieu@gmail.com"]  # Danh sách email nhận
+                send_email(subject, body_content, to_emails)
+   
+
+    return JsonResponse({'count': count, 'data': data}, safe=False)
 
 
 @csrf_exempt
