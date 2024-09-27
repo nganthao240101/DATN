@@ -6,12 +6,13 @@ from cores.convert_json import csv_to_json
 from dateutil import parser
 from django.views.decorators.csrf import csrf_exempt
 from cores.get_latest_file import get_latest_file
-from cores.sendmail import send_email
+# from cores.sendmail import send_email
 import csv
+from django.contrib.auth.decorators import login_required
 
+@login_required
 def detect_view(request):
     return render(request,'detect/index.html')
-
 
 
 from home.models import Prediction,UploadedFile,EmailFileRecord

@@ -40,7 +40,7 @@ def read_flow_data_from_folder(folder_path):
     combined_df = pd.concat(all_flows)
 
     # Nhóm dữ liệu theo thời gian (ví dụ: mỗi phút) và đếm số lượng luồng
-    combined_df.set_index('Timestamp', inplace=True)
+    combined_df.set_indsex('Timestamp', inplace=True)
     flow_count = combined_df.resample('1T').size()  # Nhóm và đếm số lượng luồng theo mỗi phút
 
     # Chuyển kết quả thống kê sang dạng key-value với định dạng thời gian là chuỗi

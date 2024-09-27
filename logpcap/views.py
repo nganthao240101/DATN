@@ -7,7 +7,9 @@ from dateutil import parser
 from cores.get_latest_file import get_latest_file
 from home.models import RealTimePrediction
 from django.forms.models import model_to_dict
+from django.contrib.auth.decorators import login_required
 
+@login_required
 def logpcap_view(request):
     return render(request,'logpcap/index.html')
 

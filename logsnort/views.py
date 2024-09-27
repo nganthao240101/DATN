@@ -7,6 +7,7 @@ import math
 from cores.convert_snort import read_snort
 from collections import Counter
 import json
+from django.contrib.auth.decorators import login_required
 
 def read_snort_log(file_path):
     snort_list = read_snort(file_path)
@@ -34,7 +35,7 @@ def data_snort():
         print("No logs found or timestamp format is incorrect.")
     
     return snort_list,last_time
-
+@login_required
 def logsnort_view(request):
     # last_timestamp = request.GET.get('last_timestamp', None)
     # last_time = datetime.strptime(last_timestamp, "%m/%d-%H:%M:%S.%f") if last_timestamp else None
