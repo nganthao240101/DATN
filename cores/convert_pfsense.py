@@ -32,3 +32,6 @@ def read_logpfsense(log_file_path):
     logpfsense_list = parse_and_process_log(log_lines)
     
     return logpfsense_list
+
+# test=read_logpfsense('/home/ubuntu/Desktop/aipcap/cores/log_pfsense')
+# print(test)

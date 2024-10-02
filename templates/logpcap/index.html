@@ -10,9 +10,11 @@
         <link rel="stylesheet" href="{% static 'vendor/clockpicker/dist/bootstrap-clockpicker.min.css' %}">
         <link rel="stylesheet" href="{% static 'vendor/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css' %}">
         <link rel="stylesheet" href="{% static 'vendor/bootstrap-daterangepicker/daterangepicker.css' %}">
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 {% endblock %}
 {% block content %}
                         <div id="load-runing"></div>
+                        
                         <div class="box box-block bg-white">
                             <div class="row">
                                 <div class="col-md-12">
@@ -29,12 +31,22 @@
                                     </div>
                                 </div>
                             </div>
+                   
+                        </div>
+                      
+                        <div class="box box-block bg-white">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h5 class="mb-2">Lượng dữ liệu theo thời gian</h5>
+                                    <canvas id="myChartSourceIP" width="300" height="200"></canvas>
+                                </div>
+                            </div>
                         </div>
                         <div class="box box-block bg-white">
                             <div class="row">
                                 <div class="col-md-12">
                                     <h5>Tìm kiếm theo thời gian</h5>
-                                    <p class="font-90 text-muted mb-1">Lựa chọn dữ liệu theo thời gian .</p>
+                                    <p class="font-90 text-muted mb-1">Lựa chọn dữ liệu theo thời gian.</p>
                                     <form action="" class="form-filtertime">
                                         <input class="form-control" type="text" name="daterange-with-time" value="01/01/2024 1:30 PM - 01/01/2024 11:00 PM" />
                                         <button id="send-data" class="btn btn-success btn-rounded w-min-sm mb-0-25 waves-effect waves-light">Tìm kiếm</button>
@@ -81,6 +93,65 @@
 {% endblock %}
 
 {% block script %}
+        <script>
+            var ctx = document.getElementById('myChartSourceIP').getContext('2d');
+            var myChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: [],  // Bắt đầu với nhãn trống
+                    datasets: [{
+                        label: 'Số lượng IP duy nhất theo phút',
+                        data: [],  // Bắt đầu với dữ liệu trống
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 2,
+                        fill: false,
+                        pointRadius: 5,
+                        pointBackgroundColor: 'rgba(75, 192, 192, 1)'
+                    }]
+                },
+                options: {
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Thời gian (Giờ:Phút)'
+                            }
+                        },
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Số lượng IP'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Hàm cập nhật dữ liệu biểu đồ từ API
+            function updateChartData() {
+                $.ajax({
+                    url: '{% url "get_chart_data" %}',  // URL của API trả về JSON
+                    method: 'GET',
+                    success: function(response) {
+                        // Cập nhật dữ liệu và nhãn cho biểu đồ
+                        myChart.data.labels = response.labels;
+                        myChart.data.datasets[0].data = response.data;
+                        myChart.update();  // Cập nhật biểu đồ
+                    },
+                    error: function(xhr, status, error) {
+                        console.error('Có lỗi xảy ra khi tải dữ liệu:', error);
+                    }
+                });
+            }
+
+            // Gọi hàm cập nhật dữ liệu ngay khi trang được tải
+            updateChartData();
+
+            // Cứ 3 phút sẽ gọi hàm cập nhật dữ liệu một lần
+            setInterval(updateChartData, 180000);  // 180000 milliseconds = 3 phút
+        </script>
         <script type="text/javascript" src="{% static 'vendor/DataTables/js/jquery.dataTables.min.js' %}"></script>
         <script type="text/javascript" src="{% static 'vendor/DataTables/js/dataTables.bootstrap4.min.js' %}"></script>
         <script type="text/javascript" src="{% static 'vendor/DataTables/Responsive/js/dataTables.responsive.min.js' %}"></script>

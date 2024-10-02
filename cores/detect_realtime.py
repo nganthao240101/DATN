@@ -185,15 +185,15 @@ decoder = Decoder(d)
 
 import torch
 
-with open("/home/ubuntu/Desktop/aipcap/cores/AE_28_8.pt", "rb") as f:
+with open("/home/ubuntu/Desktop/aipcap/cores/AE_299.pt", "rb") as f:
     encoder.load_state_dict(torch.load(f,weights_only=True))
 
 import joblib
 # Tải mô hình từ file
-model = joblib.load('/home/ubuntu/Desktop/aipcap/cores/AE_DT_28_8.joblib')
+model = joblib.load('/home/ubuntu/Desktop/aipcap/cores/AE_299.joblib')
 
 # Tải mô hình từ file
-scaler = joblib.load('/home/ubuntu/Desktop/aipcap/cores/saler_data.joblib')
+scaler = joblib.load('/home/ubuntu/Desktop/aipcap/cores/29_9.joblib')
 
 # Sử dụng hàm
 

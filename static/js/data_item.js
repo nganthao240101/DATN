@@ -63,7 +63,7 @@ $(document).ready(function() {
             },
             dataType: 'json',
             success: function(data) {
-                console.log("demo",dateRange)
+
                 // Xóa dữ liệu cũ trong bảng
                 table.clear();
                 // Thêm các hàng dữ liệu mới
@@ -113,7 +113,6 @@ $(document).ready(function() {
                 processData: false,  // Không xử lý dữ liệu gửi đi
                 contentType: false,  // Không thiết lập loại nội dung (mặc định sẽ tự động thiết lập)
                 success: function(response) {
-                    console.log("test:",response)
                     $('#content-detect').html(
                         `<h5 class="mb-2">Thống kê</h5><div class="row row-md">
 							<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
@@ -128,17 +127,17 @@ $(document).ready(function() {
 						</div>`
                     );
                     response.data.forEach(function(item) {
-                        if (item['label'] === '1.0') {
-                            item['label'] = 'PortScan';
+                        if (item['Label'] === '1.0') {
+                            item['Label'] = 'PortScan';
                         } else {
-                            item['label'] = 'BEGIN';
+                            item['Label'] = 'BENIGN';
                         }
                     });
     
                     // Sắp xếp dữ liệu với các dòng 'PortScan' lên đầu
                     response.data.sort(function(a, b) {
-                        if (a['label'] === 'PortScan' && b['label'] !== 'PortScan') return -1;
-                        if (a['label'] !== 'PortScan' && b['label'] === 'PortScan') return 1;
+                        if (a['Label'] === 'PortScan' && b['Label'] !== 'PortScan') return -1;
+                        if (a['Label'] !== 'PortScan' && b['Label'] === 'PortScan') return 1;
                         return 0;
                     });
                     
@@ -149,21 +148,20 @@ $(document).ready(function() {
                     
                         // Kiểm tra và thay đổi giá trị của 'Label'
                          // Kiểm tra và thay đổi giá trị của 'Label'
-                    if (item['label'] === 'PortScan') {
+                    if (item['Label'] === 'PortScan') {
                         dstIpColor = 'background-color:#e7b6b6';
                     }
-                        console.log(item)
-                    
                         // Tạo dòng cho bảng với màu sắc và nội dung phù hợp
                         tableBody += `
-                            <tr style="${dstIpColor}">
-                                <td>${item['timestamp']}</td>
-                                <td>${item['destination_ip']}</td>
-                                <td>${item['source_ip']}</td>
-                                <td>${item['source_port']}</td>
-                                <td>${item['destination_port']}</td>
-                                <td>${item['label']}</td>
-                            </tr>`;
+                        <tr style="${dstIpColor}">
+                            <td>${item['Timestamp']}</td>
+                            <td>${item['Dst IP']}</td>
+                            <td>${item['Src IP']}</td>
+                            <td>${item['Src Port']}</td>
+                            <td>${item['Destination Port']}</td>
+                            <td>${item['Label']}</td>
+                        </tr>`;
+
                     });
                     $('#table-detect').html(
                         `<div class="box box-block bg-white">
@@ -177,7 +175,7 @@ $(document).ready(function() {
                                             <th>Src IP</th>
                                             <th>Src Port</th>
                                             <th>Dst Port</th>
-                                            <th>Lable</th>
+                                            <th>Label</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -196,6 +194,9 @@ $(document).ready(function() {
         });
     };
     loadDetect();
+    setInterval(loadDetect, 30000);
+    
+
 
     // lọc theo thời gian
     function filterDataDetect(){
@@ -229,22 +230,22 @@ $(document).ready(function() {
                         let dstIpColor = ''; // Biến để lưu màu sắc của dòng
                     
                         // Kiểm tra và thay đổi giá trị của 'Label'
-                        if (item['label'] === '1.0') {
-                            item['label'] = 'PortScan';
+                        if (item['Label'] === '1.0') {
+                            item['Label'] = 'PortScan';
                             dstIpColor = 'background-color:#e7b6b6'; // Đặt màu nền đỏ nếu 'Label' là '1.0'
                         } else {
-                            item['label'] = 'BEGIN';
+                            item['Label'] = 'BEGIN';
                         }
                     
                         // Tạo dòng cho bảng với màu sắc và nội dung phù hợp
                         tableBody += `
                             <tr style="${dstIpColor}">
-                                <td>${item['timestamp']}</td>
-                                <td>${item['destination_ip']}</td>
-                                <td>${item['source_ip']}</td>
-                                <td>${item['source_port']}</td>
-                                <td>${item['destination_port']}</td>
-                                <td>${item['label']}</td>
+                                <td>${item['Timestamp']}</td>
+                                <td>${item['Dst IP']}</td>
+                                <td>${item['Src IP']}</td>
+                                <td>${item['Src Port']}</td>
+                                <td>${item['Destination Port']}</td>
+                                <td>${item['Label']}</td>
                             </tr>`;
                     });
                     $('#table-detect').html(
@@ -259,7 +260,7 @@ $(document).ready(function() {
                                             <th>Src IP</th>
                                             <th>Src Port</th>
                                             <th>Dst Port</th>
-                                            <th>Lable</th>
+                                            <th>Label</th>
                                         </tr>
                                     </thead>
                                     <tbody>

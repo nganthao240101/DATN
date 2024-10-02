@@ -7,23 +7,25 @@ $(document).ready(function() {
             url: endpointUrl,
             type: 'GET',
             data: {
-                dateRange: dateRange // Gửi dateRange như một tham số trong yêu cầu
+                dateRange: dateRange,
+                limit: 50 // Giới hạn số bản ghi cần lấy là 50// Gửi dateRange như một tham số trong yêu cầu
             },
             dataType: 'json',
-            success: function(data) {
-                // Xóa dữ liệu cũ trong bảng
+            success: function(res) {
+        
                 table.clear();
                 // Thêm các hàng dữ liệu mới
-                data.forEach(function(item) {
+                res.forEach(function(item) {
+                    var actionValue = item['action'] === '0x0,' ? 'none' : (item['action'] || 'N/A');
                     table.row.add([
                         item['timestamp'] || 'N/A',
-                        item['hostname'] || 'N/A',
+                        actionValue,
                         item['protocol_type'] || 'N/A',
                         item['src_ip'] || 'N/A',
                         item['src_port'] || 'N/A',
                         item['dst_ip'] || 'N/A',
                         item['dst_port'] || 'N/A',
-                        item['action'] || 'N/A'
+                        item['interface'] || 'N/A',
                     ]).draw();
                 });
             },
@@ -34,4 +36,6 @@ $(document).ready(function() {
     }
     loaddata();
 });
+
+
 

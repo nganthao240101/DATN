@@ -3,3 +3,5 @@
 **/migrations/__pycache__/
 TCPDUMP_and_CICFlowMeter/
 myenv
+data_input
+data_output

@@ -1,20 +1,17 @@
 import csv
-import json
-import os
+from io import StringIO
 from django.http import JsonResponse
 
-
-def csv_to_json(csv_file_path):
-
-    if not os.path.exists(csv_file_path):
-            return JsonResponse({"error": "File không tồn tại"}, status=404)
-    # Mở file CSV và đọc nội dung
-    with open(csv_file_path, mode='r', encoding='utf-8') as csv_file:
+def csv_to_json(data):
+    try:
+        # Sử dụng StringIO để giả lập một file từ chuỗi CSV
+        csv_file = StringIO(data)
+        
+        # Đọc nội dung chuỗi CSV như một file CSV
         csv_reader = csv.DictReader(csv_file)
         
         # Chuyển dữ liệu từ CSV sang danh sách các dictionary
         data_json = [row for row in csv_reader]
-    return data_json
-
-
-
+        return data_json
+    except Exception as e:
+        return JsonResponse({"error": str(e)}, status=500)

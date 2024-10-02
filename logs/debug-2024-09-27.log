@@ -1,0 +1,20 @@
+2024-09-27 00:16:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-09-27 00:16:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-09-27 00:16:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-09-27 00:16:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/test.pcap 
+2024-09-27 00:16:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/test.pcap
+2024-09-27 00:16:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-09-27 00:16:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 87
+2024-09-27 00:16:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 85
+2024-09-27 00:16:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-09-27 00:16:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 29 seconds
+2024-09-27 00:16:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-09-27 00:16:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-09-27 00:16:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-09-27 00:16:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 1,16
+2024-09-27 00:16:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 16
+2024-09-27 00:16:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+

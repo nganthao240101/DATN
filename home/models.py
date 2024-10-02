@@ -65,3 +65,17 @@ class RealTimePrediction(models.Model):
 
     def __str__(self):
         return f"{self.source_ip}:{self.source_port} -> {self.destination_ip}:{self.destination_port} ({self.label})"
+
+
+class LogPfSense(models.Model):
+    timestamp = models.DateTimeField()  # Thời gian log
+    action = models.CharField(max_length=255)  # Hành động
+    protocol_type = models.CharField(max_length=50)  # Loại giao thức
+    src_ip = models.GenericIPAddressField()  # IP nguồn
+    dst_ip = models.GenericIPAddressField()  # IP đích
+    src_port = models.CharField(max_length=10)  # Cổng nguồn
+    dst_port = models.CharField(max_length=10)  # Cổng đích
+    interface = models.CharField(max_length=50)  # Giao diện mạng (interface)
+
+    def __str__(self):
+        return f"{self.src_ip} -> {self.dst_ip} on {self.timestamp} via {self.interface}"

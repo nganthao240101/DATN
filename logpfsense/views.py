@@ -7,6 +7,7 @@ import math
 from cores.convert_pfsense import read_logpfsense
 from collections import Counter
 import json
+from django.contrib.auth.decorators import login_required
 
 
 def data_pfsense():
@@ -15,7 +16,9 @@ def data_pfsense():
     pfsense_list = read_logpfsense(file_path)
     return pfsense_list
 
-def logspfsense_view(request):
+
+@login_required
+def logpfsense_view(request):
     pfsense_list = data_pfsense()
     if pfsense_list is not None:
         # Tạo các danh sách giá trị của "srcip", "srcport", và "destport"
@@ -59,6 +62,5 @@ def call_logpfsense(request):
         srcport_count = Counter(srcport_list)
         destport_count = Counter(destport_list)
         return JsonResponse(pfsense_list,safe=False)
-
 
 
