@@ -46,7 +46,7 @@ def logpcap_filter(request):
     count = 0
     for item in data_dict:
         src_ip = item.get('source_ip')
-        if src_ip not in unique_src_ips:
+        if src_ip not in unique_src_ips and item['label']==1.0:
             unique_src_ips.append(src_ip)
             count += 1
     return JsonResponse({'total': count, 'rows': first_100_items}, safe=False)

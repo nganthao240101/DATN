@@ -259,38 +259,41 @@ while True:
     os.remove(latest_file)
     print(f"Đã xóa file: {latest_file}")
     # print(output)
+  
     output['Timestamp'] = output['Timestamp'].dt.strftime('%Y-%m-%d %H:%M:%S')
+    print(output['Timestamp'].dtype)
+     # Giữ nguyên định dạng thời gian mà không có 'Z'
 
-    # time.sleep(20)
-    # Đường dẫn đến cơ sở dữ liệu và tên bảng
-    # db_path="/home/ubuntu/Desktop/aipcap/db.sqlite3"
-    # Vòng lặp để thêm dữ liệu vào cơ sở dữ liệu
+    db_path="/home/ubuntu/Desktop/aipcap/db.sqlite3"  # Đường dẫn đến cơ sở dữ liệu
 
-    # Chuẩn bị câu lệnh SQL
+    # # Câu lệnh xóa tất cả dữ liệu trong bảng
+    # sql_delete = "DELETE FROM home_realtimeprediction"
+
+    # # Thực thi câu lệnh xóa dữ liệu
+    # execute_query(db_path, sql_delete)
     sql_insert = """
     INSERT INTO home_realtimeprediction 
     (timestamp, source_ip, source_port, destination_ip, destination_port, 
     flow_id, protocol, flow_duration,label,created_at)
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?,?)
     """
-       
-        # Chuyển đổi các giá trị sang kiểu dữ liệu phù hợp
+
     for index, row in output.iterrows():
-        if(row['Flow Duration'] not in check_data):
-            created_at = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        if row['Flow Duration'] not in check_data:
+            created_at = datetime.now().strftime('%Y-%m-%d %H:%M:%S')  # Không thêm 'Z' vào created_at
             params_insert = (
-            row['Timestamp'],              # Thời gian dưới dạng chuỗi
-            row['Src IP'],                # IP nguồn
-            row['Src Port'],              # Cổng nguồn
-            row['Dst IP'],                # IP đích
-            row['Destination Port'],      # Cổng đích
-            row['Flow ID'],              # ID luồng
-            row['Protocol'],             # Giao thức
-            row['Flow Duration'],        # Thời gian luồng
-            row['Label'],
-            created_at)     
+                row['Timestamp'],              # Thời gian dưới dạng chuỗi
+                row['Src IP'],                # IP nguồn
+                row['Src Port'],              # Cổng nguồn
+                row['Dst IP'],                # IP đích
+                row['Destination Port'],      # Cổng đích
+                row['Flow ID'],              # ID luồng
+                row['Protocol'],             # Giao thức
+                row['Flow Duration'],        # Thời gian luồng
+                row['Label'],
+                created_at                   # Thời gian tạo không có 'Z'
+            )
+            # Gọi hàm thực thi câu lệnh SQL với các tham số
             execute_query(db_path, sql_insert, params_insert)
-        # Gọi hàm thực thi câu lệnh SQL với các tham số
 
-    time.sleep(60)
-
+        time.sleep(60)

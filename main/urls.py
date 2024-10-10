@@ -25,5 +25,6 @@ urlpatterns = [
     path('logsnort', include('logsnort.urls')),
     path('email', include('email_user.urls')),
     path('logpfsense', include('logpfsense.urls')),
-    path('flow', include('flow.urls')),
+    path('logemailsend', include('logEmailSend.urls')),
 ]
+

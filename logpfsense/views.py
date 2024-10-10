@@ -19,7 +19,9 @@ def data_pfsense():
 
 @login_required
 def logpfsense_view(request):
-    pfsense_list = data_pfsense()
+    getdata = data_pfsense()
+    pfsense_list = sorted(getdata, key=lambda x: x['timestamp'], reverse=True)
+    pfsense_list = pfsense_list[:50]
     if pfsense_list is not None:
         # Tạo các danh sách giá trị của "srcip", "srcport", và "destport"
         srcip_list = [item['src_ip'] for item in pfsense_list]
@@ -50,7 +52,9 @@ def logpfsense_view(request):
     return render(request, 'logpfsense/index.html',context)
 
 def call_logpfsense(request):
-    pfsense_list = data_pfsense()
+    getdata = data_pfsense()
+    pfsense_list = sorted(getdata, key=lambda x: x['timestamp'], reverse=True)
+    pfsense_list = pfsense_list[:50]
     if pfsense_list is not None:
         # Tạo các danh sách giá trị của "srcip", "srcport", và "destport"
         srcip_list = [item['src_ip'] for item in pfsense_list]

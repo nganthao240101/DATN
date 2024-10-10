@@ -1,726 +1,1496 @@
-2024-10-02 14:31:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
-2024-10-02 14:31:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
-2024-10-02 14:31:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
-2024-10-02 14:31:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/test2.pcap 
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 50 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 50 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 50 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 101 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 101 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 99 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 101 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 99 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 98 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 98 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 97 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 96 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 99 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 106 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 106 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 107 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 107 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 108 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 107 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 108 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 115 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 114 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 117 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 118 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 118 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 117 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 117 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 116 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 119 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 118 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 117 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 116 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 119 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 119 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 119 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 161 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 161 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 161 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 161 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 162 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 163 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 164 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 164 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 164 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 164 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 164 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 164 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 164 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 164 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 177 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 177 flow
-2024-10-02 14:31:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 177 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 210 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 210 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 210 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 216 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 216 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 226 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 226 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 226 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 226 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 226 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 226 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 240 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 240 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 241 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 240 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 241 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 241 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 241 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 240 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 241 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 240 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 241 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 241 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 241 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 246 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 246 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 246 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 245 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 247 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 253 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 253 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 275 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 372 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 373 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 373 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 386 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 398 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 464 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 463 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 478 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 478 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 477 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 476 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 475 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 478 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 478 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 478 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 478 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 480 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 479 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 478 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 477 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 488 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 491 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 495 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 523 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 527 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 527 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 526 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 525 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 524 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 525 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 525 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 524 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 523 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 522 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 526 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 525 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 525 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 524 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 526 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 525 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 525 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 526 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 526 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 526 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 528 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 530 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 530 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 529 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 531 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 543 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 542 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 541 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 540 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 539 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 538 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 537 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 536 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 535 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 534 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 535 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 534 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 533 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 532 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 531 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 540 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 549 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 564 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 565 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 565 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 564 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 563 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 562 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 561 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 560 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 559 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 558 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 557 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 556 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 555 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 554 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 554 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 553 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 552 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 551 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 551 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 550 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 572 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 576 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 576 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 576 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 575 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 574 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 575 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 575 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 574 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 573 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 580 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 583 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 584 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 584 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 584 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 584 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 586 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 589 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 589 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 588 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 589 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 589 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 588 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 587 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 586 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 585 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 586 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 586 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 585 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 584 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 584 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 583 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 584 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 584 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 584 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 599 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 600 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 602 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 601 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 601 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 600 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 599 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 598 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 597 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 596 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 595 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 596 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 595 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 594 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 597 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 599 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 599 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 604 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 603 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 603 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 605 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 604 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 603 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 606 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 606 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 611 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 610 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 609 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 608 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 608 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 607 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 606 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 605 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 604 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 603 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 602 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 602 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 602 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 601 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 601 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 601 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 600 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 599 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 600 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 601 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 601 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 600 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 601 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 600 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 599 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 598 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 597 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 600 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 615 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 614 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 613 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 612 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 611 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 610 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 609 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 609 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 608 flow
-2024-10-02 14:31:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 607 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 641 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 641 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 640 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 647 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 647 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 649 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 649 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 649 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 658 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 657 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 657 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 656 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 656 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 655 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 656 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 656 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 657 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 660 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 659 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 659 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 658 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 658 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 657 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 660 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 659 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 662 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 662 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 666 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 665 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 664 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 664 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 663 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 662 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 661 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 663 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 662 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 661 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 661 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 661 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 662 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 662 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 662 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 671 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 678 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 689 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 697 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 696 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 695 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 694 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 693 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 693 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 695 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 694 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 693 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 693 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 692 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 692 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 699 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 702 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 707 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 713 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 727 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 734 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 733 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 732 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 732 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 732 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 732 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 735 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 736 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 735 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 734 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 740 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 741 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 741 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 742 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 742 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 746 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 747 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 746 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 745 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 744 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 743 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 742 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 741 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 740 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 741 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 750 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 750 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 750 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 750 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 749 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 748 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 748 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 751 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 751 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 754 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 756 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 755 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 757 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 764 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 764 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 764 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 764 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 763 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 762 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 761 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 761 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 761 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 761 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 761 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 764 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 764 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 763 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 762 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 764 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 763 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 763 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 762 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 763 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 762 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 769 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 769 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 768 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 769 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 768 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 769 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 769 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 768 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 769 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 769 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 770 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 769 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 769 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 768 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 767 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 766 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 767 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 767 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 766 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 766 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 765 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 766 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 774 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 776 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 775 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 776 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 777 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 776 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 775 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 774 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 832 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 831 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 830 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 852 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 854 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 854 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 854 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 854 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 853 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 853 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 853 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 853 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 854 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 853 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 852 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 869 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 869 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 871 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 871 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 871 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 876 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 875 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 875 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 878 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 877 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 876 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 877 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 876 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 876 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 877 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 877 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 876 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 875 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 878 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 882 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 882 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 881 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 880 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 891 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 891 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 890 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 889 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 888 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 887 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 886 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 886 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 890 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 889 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 894 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 893 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 893 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 896 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 903 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 907 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 908 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 907 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 907 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 907 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 909 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 908 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 908 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 909 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 910 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 923 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 922 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 921 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 921 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 921 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 921 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 921 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 924 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 924 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 923 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 924 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 924 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 930 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 929 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 930 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 930 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 930 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 930 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 930 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 929 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 929 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 929 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 930 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 930 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 929 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 929 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 929 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 936 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 937 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 938 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 938 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 938 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 941 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 941 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 941 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 942 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 943 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 948 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 947 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 949 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 949 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 949 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 951 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 953 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 953 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 952 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 951 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 953 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 953 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 953 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 953 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 952 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 952 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 951 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 952 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 951 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 951 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 951 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 951 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 950 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 950 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 949 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 950 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 949 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 948 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 948 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 948 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 947 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 948 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 947 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 947 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 947 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 947 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 947 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 947 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 946 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 946 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 945 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 944 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 944 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 955 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 954 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 953 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 952 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 955 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 955 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 956 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 955 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 954 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 953 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 958 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 957 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 956 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 956 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 984 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 983 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 985 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 984 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 988 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 988 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 987 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 988 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 988 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 988 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 989 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 989 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 988 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 995 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 995 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 995 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 994 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 993 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 995 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 995 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 995 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 997 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1007 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1006 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1007 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1007 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1007 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1006 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1007 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1007 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1006 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1006 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1006 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1007 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1006 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1006 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1004 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1003 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1001 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1000 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1001 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1001 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1004 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1004 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1003 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1001 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1005 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1007 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1013 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1012 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1013 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1013 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1013 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1019 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1019 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1019 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1019 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1019 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1019 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1019 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1019 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1018 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1018 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1029 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1029 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1029 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1035 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1035 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1035 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1035 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1035 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1035 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1034 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1034 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1034 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1034 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1034 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1034 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1034 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1034 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1036 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1043 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1043 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1043 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 1050 flow
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/test2.pcap
-2024-10-02 14:31:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 2 seconds
-2024-10-02 14:31:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 104788
-2024-10-02 14:31:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 104784
-2024-10-02 14:31:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:4 4 
-2024-10-02 14:31:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 566 seconds
-2024-10-02 14:31:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,792
-2024-10-02 14:31:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 105,1737
-2024-10-02 14:31:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:31:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:31:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 01:31:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:31:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 01:31:18 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 01:31:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 2 seconds
+2024-10-07 01:31:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 01:31:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 01:31:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 01:31:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 01:31:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 01:31:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 01:31:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 01:31:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 01:31:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
 
 ----------------------------------------------------------------------------
- TOTAL FLOWS GENERATED: 1737
-2024-10-02 14:31:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 01:31:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
 
+2024-10-07 01:34:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:34:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 01:34:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:34:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 01:34:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 01:34:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 01:34:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 01:34:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 01:34:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 01:34:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 01:34:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 01:34:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 01:34:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 01:34:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 01:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 01:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 01:36:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:36:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 01:36:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:36:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/today1.pcap 
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: c0 1e 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: bf 1e 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: c0 1e 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: bf 1e 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 0e    33.....PV.....`.
+0010: e8 eb 00 2f  11 01 fe 80  00 00 00 00  00 00 08 15    .../............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 2f  61 c1 00 00    .........../a...
+0040: 00 00 00 01  00 00 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 ff 00  01*                                      .....           
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 0e    33.....PV.....`.
+0010: e8 eb 00 55  11 01 fe 80  00 00 00 00  00 00 08 15    ...U............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 55  12 41 00 00    ...........U.A..
+0040: 84 00 00 00  00 02 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 1c 00  01 00 00 00  3c 00 10 fe  80 00 00 00    ........<.......
+0070: 00 00 00 08  15 6b b3 fb  be 41 61 c0  0c 00 01 00    .....k...Aa.....
+0080: 01 00 00 00  3c 00 04 c0  a8 03 01*                   ....<......     
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 0e    33.....PV.....`.
+0010: e8 eb 00 2f  11 01 fe 80  00 00 00 00  00 00 08 15    .../............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 2f  61 c1 00 00    .........../a...
+0040: 00 00 00 01  00 00 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 ff 00  01*                                      .....           
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 0e    33.....PV.....`.
+0010: e8 eb 00 55  11 01 fe 80  00 00 00 00  00 00 08 15    ...U............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 55  12 41 00 00    ...........U.A..
+0040: 84 00 00 00  00 02 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 1c 00  01 00 00 00  3c 00 10 fe  80 00 00 00    ........<.......
+0070: 00 00 00 08  15 6b b3 fb  be 41 61 c0  0c 00 01 00    .....k...Aa.....
+0080: 01 00 00 00  3c 00 04 c0  a8 03 01*                   ....<......     
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: bf 1e 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: c0 1e 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: bf 1e 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 0a    33.....PV.....`.
+0010: 91 3b 00 2f  11 01 fe 80  00 00 00 00  00 00 08 15    .;./............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 2f  61 c1 00 00    .........../a...
+0040: 00 00 00 01  00 00 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 ff 00  01*                                      .....           
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 0a    33.....PV.....`.
+0010: 91 3b 00 55  11 01 fe 80  00 00 00 00  00 00 08 15    .;.U............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 55  12 41 00 00    ...........U.A..
+0040: 84 00 00 00  00 02 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 1c 00  01 00 00 00  3c 00 10 fe  80 00 00 00    ........<.......
+0070: 00 00 00 08  15 6b b3 fb  be 41 61 c0  0c 00 01 00    .....k...Aa.....
+0080: 01 00 00 00  3c 00 04 c0  a8 03 01*                   ....<......     
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 0a    33.....PV.....`.
+0010: 91 3b 00 2f  11 01 fe 80  00 00 00 00  00 00 08 15    .;./............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 2f  61 c1 00 00    .........../a...
+0040: 00 00 00 01  00 00 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 ff 00  01*                                      .....           
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 01  00 03 00 50  56 c0 00 03* 86 dd 60 02    33.....PV.....`.
+0010: 00 ec 00 29  11 01 fe 80  00 00 00 00  00 00 08 15    ...)............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 01  00 03 e2 08  14 eb 00 29  db fc 8f e1    ...........)....
+0040: 00 00 00 01  00 00 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 00 00  ff 00 01*      OP-55MHITP..... 
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: bf 1e 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 0a    33.....PV.....`.
+0010: 91 3b 00 55  11 01 fe 80  00 00 00 00  00 00 08 15    .;.U............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 55  12 41 00 00    ...........U.A..
+0040: 84 00 00 00  00 02 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 1c 00  01 00 00 00  3c 00 10 fe  80 00 00 00    ........<.......
+0070: 00 00 00 08  15 6b b3 fb  be 41 61 c0  0c 00 01 00    .....k...Aa.....
+0080: 01 00 00 00  3c 00 04 c0  a8 03 01*                   ....<......     
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: bf 1e 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: c0 1e 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: bf 1e 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: c0 1e 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: bf 1e 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 0a    33.....PV.....`.
+0010: 91 3b 00 2f  11 01 fe 80  00 00 00 00  00 00 08 15    .;./............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 2f  61 c1 00 00    .........../a...
+0040: 00 00 00 01  00 00 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 ff 00  01*                                      .....           
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 0a    33.....PV.....`.
+0010: 91 3b 00 55  11 01 fe 80  00 00 00 00  00 00 08 15    .;.U............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 55  12 41 00 00    ...........U.A..
+0040: 84 00 00 00  00 02 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 1c 00  01 00 00 00  3c 00 10 fe  80 00 00 00    ........<.......
+0070: 00 00 00 08  15 6b b3 fb  be 41 61 c0  0c 00 01 00    .....k...Aa.....
+0080: 01 00 00 00  3c 00 04 c0  a8 03 01*                   ....<......     
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 0a    33.....PV.....`.
+0010: 91 3b 00 2f  11 01 fe 80  00 00 00 00  00 00 08 15    .;./............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 2f  61 c1 00 00    .........../a...
+0040: 00 00 00 01  00 00 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 ff 00  01*                                      .....           
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 0c  29 6f d2 2c* 86 dd 60 0f    33......)o.,..`.
+0010: b3 56 00 2d  11 ff fe 80  00 00 00 00  00 00 9a d8    .V.-............
+0020: ae 15 e9 86  52 9d ff 02  00 00 00 00  00 00 00 00    ....R...........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 2d  ee 74 00 00    ...........-.t..
+0040: 00 00 00 01  00 00 00 00  00 00 08 5f  73 63 61 6e    ..........._scan
+0050: 6e 65 72 04  5f 74 63 70  05 6c 6f 63  61 6c 00 00    ner._tcp.local..
+0060: 0c 00 01*                                             ...             
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 0c  29 6f d2 2c* 86 dd 60 0f    33......)o.,..`.
+0010: b3 56 00 2d  11 ff fe 80  00 00 00 00  00 00 9a d8    .V.-............
+0020: ae 15 e9 86  52 9d ff 02  00 00 00 00  00 00 00 00    ....R...........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 2d  ee 74 00 00    ...........-.t..
+0040: 00 00 00 01  00 00 00 00  00 00 08 5f  73 63 61 6e    ..........._scan
+0050: 6e 65 72 04  5f 74 63 70  05 6c 6f 63  61 6c 00 00    ner._tcp.local..
+0060: 0c 00 01*                                             ...             
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: c0 1e 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: bf 1e 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: c0 1e 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: bf 1e 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 01    33.....PV.....`.
+0010: 7b 4f 00 2f  11 01 fe 80  00 00 00 00  00 00 08 15    {O./............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 2f  61 c1 00 00    .........../a...
+0040: 00 00 00 01  00 00 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 ff 00  01*                                      .....           
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 01    33.....PV.....`.
+0010: 7b 4f 00 55  11 01 fe 80  00 00 00 00  00 00 08 15    {O.U............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 55  12 41 00 00    ...........U.A..
+0040: 84 00 00 00  00 02 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 1c 00  01 00 00 00  3c 00 10 fe  80 00 00 00    ........<.......
+0070: 00 00 00 08  15 6b b3 fb  be 41 61 c0  0c 00 01 00    .....k...Aa.....
+0080: 01 00 00 00  3c 00 04 c0  a8 03 01*                   ....<......     
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 01    33.....PV.....`.
+0010: 7b 4f 00 2f  11 01 fe 80  00 00 00 00  00 00 08 15    {O./............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 2f  61 c1 00 00    .........../a...
+0040: 00 00 00 01  00 00 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 ff 00  01*                                      .....           
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 01  00 03 00 50  56 c0 00 03* 86 dd 60 0c    33.....PV.....`.
+0010: f7 c1 00 29  11 01 fe 80  00 00 00 00  00 00 08 15    ...)............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 01  00 03 c7 78  14 eb 00 29  8e 46 f8 27    .......x...).F.'
+0040: 00 00 00 01  00 00 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 00 00  ff 00 01*      OP-55MHITP..... 
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 50  56 c0 00 03* 86 dd 60 01    33.....PV.....`.
+0010: 7b 4f 00 55  11 01 fe 80  00 00 00 00  00 00 08 15    {O.U............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 55  12 41 00 00    ...........U.A..
+0040: 84 00 00 00  00 02 00 00  00 00 0f 44  45 53 4b 54    ...........DESKT
+0050: 4f 50 2d 35  35 4d 48 49  54 50 05 6c  6f 63 61 6c    OP-55MHITP.local
+0060: 00 00 1c 00  01 00 00 00  3c 00 10 fe  80 00 00 00    ........<.......
+0070: 00 00 00 08  15 6b b3 fb  be 41 61 c0  0c 00 01 00    .....k...Aa.....
+0080: 01 00 00 00  3c 00 04 c0  a8 03 01*                   ....<......     
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 00 50  56 c0 00 03* 86 dd 60 00    33.....PV.....`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 08 15    ...$............
+0020: 6b b3 fb be  41 61 ff 02  00 00 00 00  00 00 00 00    k...Aa..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: bf 1e 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 0c  29 6f d2 2c* 86 dd 60 0f    33......)o.,..`.
+0010: b3 56 00 2d  11 ff fe 80  00 00 00 00  00 00 9a d8    .V.-............
+0020: ae 15 e9 86  52 9d ff 02  00 00 00 00  00 00 00 00    ....R...........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 2d  ee 74 00 00    ...........-.t..
+0040: 00 00 00 01  00 00 00 00  00 00 08 5f  73 63 61 6e    ..........._scan
+0050: 6e 65 72 04  5f 74 63 70  05 6c 6f 63  61 6c 00 00    ner._tcp.local..
+0060: 0c 00 01*                                             ...             
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 0c  29 6f d2 2c* 86 dd 60 0f    33......)o.,..`.
+0010: b3 56 00 2d  11 ff fe 80  00 00 00 00  00 00 9a d8    .V.-............
+0020: ae 15 e9 86  52 9d ff 02  00 00 00 00  00 00 00 00    ....R...........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 2d  ee 74 00 00    ...........-.t..
+0040: 00 00 00 01  00 00 00 00  00 00 08 5f  73 63 61 6e    ..........._scan
+0050: 6e 65 72 04  5f 74 63 70  05 6c 6f 63  61 6c 00 00    ner._tcp.local..
+0060: 0c 00 01*                                             ...             
+
+
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/today1.pcap
+2024-10-07 01:36:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 01:36:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 3305
+2024-10-07 01:36:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 3166
+2024-10-07 01:36:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:139 139 
+2024-10-07 01:36:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 2583 seconds
+2024-10-07 01:36:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 01:36:26 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 01:36:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,12
+2024-10-07 01:36:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 131,789
+2024-10-07 01:36:27 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 789
+2024-10-07 01:36:27 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 01:39:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:39:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 01:39:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:39:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 01:39:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 01:39:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 01:39:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 01:39:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 01:39:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 01:39:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 01:39:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 01:39:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 01:39:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 01:39:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 01:39:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 01:39:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 01:42:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:42:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 01:42:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:42:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 01:42:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 01:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 01:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 01:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 01:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 01:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 01:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 01:42:26 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 01:42:26 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 01:42:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 01:42:27 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 01:42:27 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 01:42:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:42:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 01:42:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:42:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 01:42:37 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 01:42:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 2 seconds
+2024-10-07 01:42:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 01:42:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 01:42:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 01:42:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 01:42:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 01:42:37 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 01:42:37 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 01:42:39 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 01:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 01:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 01:45:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:45:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 01:45:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:45:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 01:45:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 01:45:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 01:45:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 01:45:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 01:45:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 01:45:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 01:45:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 01:45:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 01:45:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 01:45:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 01:45:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 01:45:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 01:47:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:47:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 01:47:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:47:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 01:47:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 01:47:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 01:47:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 01:47:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 01:47:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 01:47:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 01:47:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 01:47:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 01:47:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 01:47:37 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 01:47:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 01:47:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 01:50:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:50:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 01:50:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:50:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 01:50:08 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 01:50:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 01:50:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 01:50:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 01:50:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 01:50:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 01:50:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 01:50:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 01:50:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 01:50:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 01:50:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 01:50:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 01:56:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:56:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 01:56:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 01:56:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 01:56:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 01:56:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 01:56:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 01:56:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 01:56:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 01:56:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 01:56:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 01:56:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 01:56:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 01:56:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 01:56:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 01:56:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 02:00:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:00:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 02:00:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:00:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 02:00:50 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 02:00:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 02:00:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 02:00:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 02:00:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 02:00:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 02:00:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 02:00:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 02:00:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 02:00:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 02:00:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 02:00:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 02:06:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:06:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 02:06:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:06:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 02:06:12 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 02:06:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 02:06:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 02:06:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 02:06:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 02:06:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 02:06:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 02:06:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 02:06:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 02:06:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 02:06:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 02:06:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 02:13:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:13:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 02:13:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:13:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 02:13:12 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 02:13:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 02:13:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 02:13:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 02:13:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 02:13:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 02:13:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 02:13:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 02:13:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 02:13:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 02:13:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 02:13:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 02:16:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:16:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 02:16:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:16:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 02:16:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 02:16:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 02:16:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 02:16:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 02:16:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 02:16:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 02:16:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 02:16:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 02:16:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 02:16:32 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 02:16:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 02:16:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 02:24:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:24:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 02:24:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:24:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 02:24:12 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 02:24:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 02:24:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 02:24:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 02:24:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 02:24:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 02:24:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 02:24:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 02:24:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 02:24:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 02:24:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 02:24:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 02:41:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:41:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 02:41:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:41:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 02:41:38 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 02:41:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 2 seconds
+2024-10-07 02:41:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 02:41:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 02:41:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 02:41:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 02:41:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 02:41:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 02:41:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 02:41:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 02:41:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 02:41:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 02:54:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:54:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 02:54:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:54:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 02:54:40 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 02:54:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 02:54:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 02:54:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 02:54:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 02:54:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 02:54:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 02:54:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 02:54:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 02:54:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 02:54:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 02:54:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 02:56:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:56:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 02:56:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:56:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 02:56:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 02:56:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 02:56:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 02:56:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 02:56:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 02:56:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 02:56:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 02:56:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 02:56:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 02:56:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 02:56:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 02:56:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 02:58:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:58:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 02:58:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 02:58:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 02:58:03 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 02:58:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 02:58:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 02:58:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 02:58:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 02:58:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 02:58:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 02:58:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 02:58:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 02:58:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 02:58:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 02:58:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 03:00:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 03:00:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 03:00:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 03:00:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 03:00:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 03:00:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 03:00:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 03:00:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 03:00:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 03:00:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 03:00:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 03:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 03:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 03:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 03:00:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 03:00:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 03:02:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 03:02:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 03:02:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 03:02:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 03:02:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 03:02:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 03:02:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 03:02:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 03:02:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 03:02:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 03:02:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 03:02:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 03:02:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 03:02:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 03:02:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 03:02:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 03:07:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 03:07:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 03:07:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 03:07:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 03:07:23 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 03:07:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 03:07:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 03:07:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 03:07:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 03:07:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 03:07:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 03:07:23 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 03:07:23 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 03:07:24 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 03:07:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 03:07:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 04:32:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:32:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 04:32:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:32:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 04:32:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 04:32:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 04:32:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 04:32:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 04:32:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 04:32:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 04:32:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 04:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 04:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 04:32:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 04:32:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 04:32:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 04:37:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:37:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 04:37:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:37:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 04:37:40 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 04:37:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 04:37:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 04:37:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 04:37:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 04:37:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 04:37:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 04:37:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 04:37:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 04:37:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 04:37:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 04:37:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 04:41:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:41:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 04:41:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:41:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 04:41:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 04:41:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 04:41:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 04:41:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 04:41:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 04:41:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 04:41:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 04:41:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 04:41:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 04:41:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 04:41:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 04:41:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 04:42:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:42:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 04:42:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:42:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 04:42:05 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 04:42:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 2 seconds
+2024-10-07 04:42:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 04:42:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 04:42:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 04:42:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 04:42:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 04:42:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 04:42:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 04:42:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 04:42:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 04:42:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 04:43:17 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:43:17 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 04:43:17 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:43:17 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 04:43:18 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 04:43:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 04:43:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 04:43:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 04:43:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 04:43:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 04:43:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 04:43:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 04:43:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 04:43:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 04:43:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 04:43:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 04:43:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:43:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 04:43:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:43:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 04:43:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 04:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 04:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 04:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 04:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 04:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 04:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 04:43:26 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 04:43:26 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 04:43:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 04:43:27 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 04:43:27 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 04:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 04:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 04:48:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 04:48:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 04:48:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 04:48:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 04:48:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 04:48:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 04:48:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 04:48:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 04:48:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 04:48:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 04:48:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 04:48:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 04:48:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:48:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 04:48:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 04:48:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 04:48:29 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 04:48:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 04:48:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 04:48:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 04:48:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 04:48:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 04:48:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 04:48:29 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 04:48:29 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 04:48:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 04:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 04:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:04:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:04:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:04:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:04:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:04:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:04:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 05:04:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:04:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:04:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:04:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:04:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:04:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:04:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:04:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:04:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:04:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:11:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:11:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:11:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:11:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:11:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:11:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 05:11:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:11:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:11:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:11:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:11:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:11:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:11:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:11:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:11:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:11:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:15:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:15:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:15:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:15:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:15:43 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 05:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:15:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:15:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:15:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:15:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:15:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:15:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:15:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:15:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:15:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:15:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:15:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:15:47 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:15:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 05:15:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:15:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:15:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:15:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:15:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:15:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:15:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:15:47 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:15:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 05:15:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:15:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:15:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:15:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:15:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:15:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:15:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:15:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:15:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:15:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:15:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:15:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:15:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:16:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:16:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:16:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:16:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:16:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:16:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:16:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:16:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:16:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:16:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:16:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:16:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:16:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:16:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:16:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:16:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:16:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 4 seconds
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:16:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 4 seconds
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:16:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:16:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:16:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:16:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:16:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 4 seconds
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:16:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:16:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:16:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:16:08 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:16:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 4 seconds
+2024-10-07 05:16:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:16:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:16:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:16:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:16:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:16:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:16:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:16:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:16:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:16:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:16:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:16:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:16:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:16:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:16:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:16:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:16:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:16:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:16:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:24:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:24:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:24:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:24:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:24:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:24:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 05:24:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:24:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:24:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:24:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:24:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:24:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:24:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:24:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:24:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:24:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:29:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:29:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:29:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:29:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:29:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:29:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 05:29:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:29:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:29:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:29:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:29:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:29:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:29:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:29:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:29:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:29:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:35:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:35:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:35:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:35:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:35:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:35:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 05:35:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:35:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:35:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:35:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:35:33 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:35:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:35:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:35:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:35:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:35:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:38:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:38:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:38:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:38:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:38:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:38:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 05:38:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:38:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:38:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:38:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:38:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:38:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:38:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:38:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:38:58 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:38:58 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 05:41:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:41:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 05:41:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 05:41:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 05:41:11 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 05:41:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 05:41:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 05:41:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 05:41:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 05:41:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 05:41:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 05:41:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 05:41:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 05:41:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 05:41:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 05:41:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 08:12:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 08:12:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 08:12:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 08:12:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 08:12:28 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 08:12:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 9 seconds
+2024-10-07 08:12:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 08:12:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 08:12:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 08:12:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 08:12:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 08:12:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 08:12:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 08:13:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 08:13:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 08:13:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 08:14:17 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 08:14:17 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 08:14:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 08:14:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 08:14:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 08:14:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 2 seconds
+2024-10-07 08:14:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 08:14:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 08:14:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 08:14:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 08:14:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 08:14:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 08:14:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 08:14:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 08:14:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 08:14:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 08:41:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 08:41:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 08:41:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 08:41:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 08:41:12 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 08:41:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 5 seconds
+2024-10-07 08:41:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 100117
+2024-10-07 08:41:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 100115
+2024-10-07 08:41:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 08:41:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 08:41:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 08:41:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 08:41:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 08:41:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 08:41:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 08:41:17 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 08:41:17 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 08:41:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,40551
+2024-10-07 08:41:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 40551
+2024-10-07 08:41:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 08:41:27 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 08:41:27 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 10 seconds
+2024-10-07 08:41:27 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 08:41:27 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 08:41:27 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 08:41:27 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 08:41:27 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 08:41:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 08:41:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 08:42:24 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 08:42:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 08:42:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 09:09:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 09:09:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 09:09:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 09:09:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 09:09:46 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 09:09:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 8 seconds
+2024-10-07 09:09:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 09:09:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 09:09:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 09:09:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 09:09:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 09:09:46 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 09:09:46 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 09:09:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 09:09:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 09:09:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 09:10:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 09:10:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 09:10:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 09:10:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 09:10:38 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 09:10:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-10-07 09:10:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 2089
+2024-10-07 09:10:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 2089
+2024-10-07 09:10:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2024-10-07 09:10:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 3 seconds
+2024-10-07 09:10:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 09:10:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 09:10:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 09:10:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 6,1038
+2024-10-07 09:10:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 1038
+2024-10-07 09:10:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 09:10:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 09:10:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 09:10:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 09:10:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 09:10:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 09:10:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 09:10:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 09:10:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 09:10:42 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 09:10:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 09:10:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 17801
+2024-10-07 09:10:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 17799
+2024-10-07 09:10:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 09:10:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 5 seconds
+2024-10-07 09:10:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 09:10:42 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 09:10:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 09:10:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 11841
+2024-10-07 09:10:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 11841
+2024-10-07 09:10:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2024-10-07 09:10:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 5 seconds
+2024-10-07 09:10:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 09:10:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 09:10:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 09:10:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 09:10:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 09:10:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,7143
+2024-10-07 09:10:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,4615
+2024-10-07 09:10:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4615
+2024-10-07 09:10:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 09:10:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 7143
+2024-10-07 09:10:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 09:10:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 09:10:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 09:10:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 09:10:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 09:10:46 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 09:10:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2024-10-07 09:10:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 09:10:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 09:10:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 09:10:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 09:10:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 09:10:46 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 09:10:46 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0
+2024-10-07 09:10:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 0,41223
+2024-10-07 09:10:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41223
+2024-10-07 09:10:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2024-10-07 09:11:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 09:11:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-10-07 09:11:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-10-07 09:11:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap 
+2024-10-07 09:11:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/ubuntu/Desktop/aipcap/pcap_log/testdemo.pcap
+2024-10-07 09:11:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 11 seconds
+2024-10-07 09:11:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 101770
+2024-10-07 09:11:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 101768
+2024-10-07 09:11:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2024-10-07 09:11:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2024-10-07 09:11:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-10-07 09:11:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-10-07 09:11:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,0

@@ -14,14 +14,17 @@ from django.contrib.auth.decorators import login_required
 
 def data_snort():
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    file_path = os.path.join(base_dir, 'cores', 'snort.alert.fast')
+    # file_path = os.path.join(base_dir, 'cores', 'snort.alert.fast')
+    file_path = "/var/log/snort/alert_fast.log"
     snort_list = read_snort(file_path)
     return snort_list
 
 
 @login_required
 def logsnort_view(request):
-    snort_list = data_snort()
+    getdata = data_snort()
+    snort_list = sorted(getdata, key=lambda x: x['time'], reverse=True)
+    snort_list = snort_list[:50]
     if snort_list is not None:
         # Tạo các danh sách giá trị của "srcip", "srcport", và "destport"
         srcip_list = [item['srcip'] for item in snort_list]
@@ -52,7 +55,9 @@ def logsnort_view(request):
     return render(request, 'logsnort/index.html',context)
 
 def call_logsnort(request):
-    snort_list = data_snort()
+    getdata = data_snort()
+    snort_list = sorted(getdata, key=lambda x: x['time'], reverse=True)
+    snort_list = snort_list[:50]
     if snort_list is not None:
         # Tạo các danh sách giá trị của "srcip", "srcport", và "destport"
         srcip_list = [item['srcip'] for item in snort_list]

@@ -79,3 +79,12 @@ class LogPfSense(models.Model):
 
     def __str__(self):
         return f"{self.src_ip} -> {self.dst_ip} on {self.timestamp} via {self.interface}"
+    
+
+class EmailNotification(models.Model):
+    email = models.EmailField()  # Trường cho địa chỉ email
+    content = models.TextField()  # Trường cho nội dung email
+    timecreate = models.DateTimeField(auto_now_add=True)  # Tự động thêm thời gian khi tạo
+
+    def __str__(self):
+        return f'Email: {self.email}, Time: {self.timecreate}'

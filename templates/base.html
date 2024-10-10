@@ -54,8 +54,8 @@
 								<span class="s-text">Phát hiện tấn công trinh sát</span>
 							</a>
 							<ul>
-								<li><a href="{% url 'detect' %}">Phát hiện bất thường</a></li>
-								<li><a href="{% url 'logpcap' %}">Phát hiện realtime Pcap</a></li>
+								<li><a href="{% url 'detect' %}">Phát hiện pcap</a></li>
+								<li><a href="{% url 'logpcap' %}">Phát hiện realtime</a></li>
 							</ul>
 						</li>
 						<li class="with-sub">
@@ -69,13 +69,22 @@
 								<li><a href="{% url 'logsnort' %}">Log Snort</a></li>
 							</ul><ul>
 								<li><a href="{% url 'logpfsense' %}">Log Pfsense</a></li>
+							
 							</ul>
 						</li>
 						<li class="with-sub">
-							<a href="{% url 'emailUser' %}" class="waves-effect  waves-light">
-								<span class="s-icon"><i class="ti-calendar"></i></span>
-								<span class="s-text">Quản lý Email người dùng</span>
+							<a class="waves-effect  waves-light">
+								<span class="s-caret"><i class="fa fa-angle-down"></i></span>
+								<span class="tag tag-success">3</span>
+								<span class="s-icon"><i class="ti-gallery"></i></span>
+								<span class="s-text">Quản lý Email</span>
 							</a>
+							<ul>
+								<li><a href="{% url 'email_notification' %}">Log Email</a></li>
+							</ul>
+							<ul>
+								<li><a href="{% url 'emailUser' %}">List Email</a></li>
+							</ul>
 						</li>
 						<li class="menu-title compact-hide">Thông tin hệ thống</li>
 						<li class="compact-hide">
